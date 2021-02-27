@@ -1,12 +1,15 @@
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ### Hi there 👋
 # Hi, I'm Lismar Oliveira! :D
 
 ### About me
 
 
+
 <p align="justify">Electrical engineer graduated from the Federal University of Bahia - UFBa, Brazil, mobile developer, and MSc Computing and Robotics (UFBa) student. Interested in working on frontend or backend RestAPI's and flutter SDK. I'm currently learning about embedded system, artificial intelligence, Unity and I have a love / hate relationship with Programming. 😐</p>
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) <p align="justify">👨🏼‍🏫 - It's are technical courses on many technologies, such as Embedded Systems, PIC Microcontrollers, Arduino, RaspberryPI, Matlab, R, Python, Flutter, Switf, TDD, Design Patterns, Clean Architeture and more. </p>
+- [Courses](https://1drv.ms/u/s!ApueJFa-5RQig-dBA0Q1iqsOcXmeuQ?e=SrwiME) <p align="justify">👨🏼‍🏫 - It's are technical courses on many technologies, such as Embedded Systems, PIC Microcontrollers, Arduino, RaspberryPI, Matlab, R, Python, Flutter, Switf, TDD, Design Patterns, Clean Architeture and more. </p>
 
 ![Alt Text](https://user-images.githubusercontent.com/46328448/109400101-7ba39100-7925-11eb-9d7b-7b689d0e83b8.gif)
 
@@ -19,10 +22,11 @@
 <img src="https://user-images.githubusercontent.com/46328448/109401896-3a64ae80-7930-11eb-8788-89c48bc603ce.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/46328448/109401261-739b1f80-792c-11eb-805c-0c0bc4fd2179.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/46328448/109401501-eb1d7e80-792d-11eb-934d-1d3d3f6cbdc7.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lismaroliveira1&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lismaroliveira1&theme=tokyonight)
 ## ✉️ Find me on:
 
 <p align="center">
