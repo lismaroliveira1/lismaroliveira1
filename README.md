@@ -3,9 +3,7 @@
 ### Hi there 👋
 # Hi, I'm Lismar Oliveira! :D
 
-### About me
-
-
+### In search of knowledge!
 ![Alt Text](https://user-images.githubusercontent.com/46328448/109400101-7ba39100-7925-11eb-9d7b-7b689d0e83b8.gif)
 
 ## 🧰 Languages and Tools:
