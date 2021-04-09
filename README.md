@@ -6,11 +6,6 @@
 ### About me
 
 
-
-<p align="justify">Electrical engineer graduated from the Federal University of Bahia - UFBa, Brazil, mobile developer, and MSc Computing and Robotics (UFBa) student. Interested in working on frontend or backend RestAPI's and flutter SDK. I'm currently learning about embedded system, artificial intelligence, Unity and I have a love / hate relationship with Programming. 😐</p>
-
-- [Courses](https://1drv.ms/u/s!ApueJFa-5RQig-dBA0Q1iqsOcXmeuQ?e=SrwiME) <p align="justify">👨🏼‍🏫 - It's are technical courses on many technologies, such as Embedded Systems, PIC Microcontrollers, Arduino, RaspberryPI, Matlab, R, Python, Flutter, Switf, TDD, Design Patterns, Clean Architeture and more. </p>
-
 ![Alt Text](https://user-images.githubusercontent.com/46328448/109400101-7ba39100-7925-11eb-9d7b-7b689d0e83b8.gif)
 
 ## 🧰 Languages and Tools:
